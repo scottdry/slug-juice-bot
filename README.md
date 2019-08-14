@@ -1,2 +1,2 @@
 # slug-juice-bot
-A stupid Telegram bot for a particular stupid group chat.
+A delightful Telegram bot for a particularly great group chat.
